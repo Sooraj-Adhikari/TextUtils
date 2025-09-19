@@ -1,28 +1,31 @@
-# TextUtils - Text Manipulation and Analysis App
 
-TextUtils is a React.js web application designed to make text editing and analysis easy and fast. With a simple interface, it allows users to perform multiple text operations and track text statistics in real-time.
+📝 TextUtils - Text Manipulation App (React.js)
 
-## **Features**
+TextUtils is a text manipulation and analysis web application built using React.js.
+It allows users to transform and analyze text efficiently with features like uppercase/lowercase conversion, word/character count, reading time estimation, and dark/light mode.
 
-- **Text Transformation:**
-  - Convert text to **uppercase**
-  - Convert text to **lowercase**
-  - **Clear** the text area
+🚀 Features
 
-- **Text Analysis:**
-  - Real-time **word count**
-  - Real-time **character count**
-  - Estimated **reading time** based on text length
+✏️ Convert text to uppercase or lowercase
 
-- **User Interface:**
-  - **Dark Mode** and **Light Mode** toggle
-  - Responsive design suitable for all devices
- 
- ## **Technologies Used**
-- React.js
-- HTML, CSS, JavaScript
-- Functional components and hooks
-- Responsive design
+🧹 Clear text with a single click
+
+📊 Real-time word count and character count
+
+⏱️ Estimated reading time for the entered text
+
+🌙 Dark mode and light mode toggle
+
+📱 Responsive design for desktops, tablets, and mobile devices
+
+🛠️ Tech Stack
+
+Frontend: React.js, CSS, HTML, JavaScript
+
+State Management: React Hooks (useState)
+
+Styling: Responsive CSS with dark/light theme support
+
 
 # Getting Started with Create React App
 
